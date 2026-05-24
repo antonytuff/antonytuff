@@ -13,7 +13,7 @@
 ## 🧑‍💻 Whoami
 
 - ⚡ Cybersecurity enthusiast focused on **Red Teaming**, **Offensive Security** & **Threat Intelligence**
-- ⚡ Currently building tools for **Attack Surface Management** and **MITRE ATT&CK** analysis
+- ⚡ Currently building tools for **Attack Surface Management**, **Infrastructure Setupp** and **Agentic Pentesting**
 - ⚡ Learning and exploring **OSEP**, **AI and Agentic Pentesting**, and **DevSec Ops**
 - ⚡ I write about cybersecurity, HTB writeups, and red team techniques on my [blog](https://sploitony.com)
 - ⚡ Reach me at **[GitHub](https://github.com/antonytuff)**
